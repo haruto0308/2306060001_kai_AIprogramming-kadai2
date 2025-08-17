@@ -13,9 +13,9 @@ Streamlit を使って作成しており、Webブラウザから操作できま�
 
 ## システム設計図
 ![System Design](system_design.png)  
-[PDF版はこちら](system_design.pdf)
+
 
 ## コード説明図
 ![Code Structure](code_structure.png)  
-[PDF版はこちら](code_structure.pdf)
+
 
