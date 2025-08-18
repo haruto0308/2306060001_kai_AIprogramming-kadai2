@@ -19,4 +19,4 @@ Streamlit を使って作成しており、Webブラウザから操作できま�
 ![Code Structure](code_structure.png)  
 
 
-アプリURL:
+アプリURL: https://app-exmaple-z9m7mmfya3khdh3x5xffsq.streamlit.app/
