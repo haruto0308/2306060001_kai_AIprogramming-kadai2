@@ -20,3 +20,6 @@ Streamlit を使って作成しており、Webブラウザから操作できま�
 
 
 アプリURL: https://app-exmaple-z9m7mmfya3khdh3x5xffsq.streamlit.app/
+
+## 改善案課題
+ **[improvement.md](improvement.md)** 
